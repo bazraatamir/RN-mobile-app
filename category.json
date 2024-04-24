@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Card 1",
+    "imageSource": "https://images.pexels.com/photos/18651005/pexels-photo-18651005/free-photo-of-tram-and-cars-on-street-in-city-in-germany.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+  },
+  {
+    "id": 2,
+    "title": "Card 2",
+    "imageSource": "https://images.pexels.com/photos/17246647/pexels-photo-17246647/free-photo-of-a-hut-with-triangle-roof-by-the-road-in-a-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "title": "Card 3",
+    "imageSource": "https://images.pexels.com/photos/18565030/pexels-photo-18565030/free-photo-of-a-woman-sitting-in-a-chair-looking-at-a-mirror.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Card 4",
+    "imageSource": "https://images.pexels.com/photos/18565030/pexels-photo-18565030/free-photo-of-a-woman-sitting-in-a-chair-looking-at-a-mirror.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Card 5",
+    "imageSource": "https://images.pexels.com/photos/18565030/pexels-photo-18565030/free-photo-of-a-woman-sitting-in-a-chair-looking-at-a-mirror.jpeg"
+  }
+]
